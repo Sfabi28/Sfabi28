@@ -82,4 +82,4 @@
 ## ✉️ Contact me
 
 - Email: [samuelefabi28@gmail.com](mailto:samuelefabi28@gmail.com)
-- LinkedIn: [linkedin.com/in/samuele-fabi](www.linkedin.com/in/samuelefabi)
+- LinkedIn: [linkedin.com/in/samuele-fabi]([www.linkedin.com/in/samuelefabi](https://www.linkedin.com/in/samuelefabi/))
