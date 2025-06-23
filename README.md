@@ -31,19 +31,19 @@
     <th align="center">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/libft">Libft</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/Libft">Libft</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/get_next_line">get_next_line</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/gnl">get_next_line</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/ft_printf">ft_printf</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/Printf">ft_printf</a></td>
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/push_swap">push_swap</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/Push_swap">push_swap</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/so_long">so_long</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/So_long">so_long</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/pipex">pipex</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/Pipex">pipex</a></td>
     <td align="center">125%</td>
   </tr>
   <tr>
@@ -51,19 +51,19 @@
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Sfabi28/Minishell">Minishell</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/cub3D">cub3d</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/Cub3D">cub3d</a></td>
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP">CPP 00</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/CPP">CPP</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/inception">Inception</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/Inception">Inception</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/ft_irc">ft_irc</a></td>
+    <td align="center"><a href="https://github.com/stescaro99/ft_irc">ft_irc</a></td>
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/ft_trascendence">ft_trascendence</a></td>
+    <td align="center"><a href="https://github.com/stescaro99/ft_trascendence">ft_trascendence</a></td>
     <td align="center">-----</td>
     <td align="center"></td>
     <td align="center"></td>
