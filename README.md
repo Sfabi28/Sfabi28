@@ -78,3 +78,8 @@
 |-----------------|
 | [Fides Project](https://github.com/Sfabi28/Fides-Project) |
 | [Structured development](https://github.com/Sfabi28/42xunifi-structured-development-2025-sfabi) |
+
+## ✉️ Contact me
+
+- Email: [samuelefabi28@gmail.com](mailto:samuelefabi28@gmail.com)
+- LinkedIn: [linkedin.com/in/samuele-fabi](https://www.linkedin.com/in/samuele-fabi)
