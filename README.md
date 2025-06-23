@@ -82,5 +82,5 @@
 ## ✉️ Contact me
 
 - Email: [samuelefabi28@gmail.com](mailto:samuelefabi28@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuelefabi/)
+- LinkedIn: [samuele-fabi](https://www.linkedin.com/in/samuelefabi/)
 
