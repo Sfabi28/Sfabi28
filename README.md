@@ -55,31 +55,7 @@
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-00">CPP 00</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-01">CPP 01</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-02">CPP 02</a></td>
-    <td align="center">100%</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-03">CPP 03</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-04">CPP 04</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-05">CPP 05</a></td>
-    <td align="center">100%</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-06">CPP 06</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-07">CPP 07</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-08">CPP 08</a></td>
-    <td align="center">100%</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Sfabi28/CPP-Module-09">CPP 09</a></td>
+    <td align="center"><a href="https://github.com/Sfabi28/CPP">CPP 00</a></td>
     <td align="center">100%</td>
     <td align="center"><a href="https://github.com/Sfabi28/inception">Inception</a></td>
     <td align="center">125%</td>
@@ -100,5 +76,5 @@
 
 | Project         |
 |-----------------|
-| [Aper Cocktail WebApp](https://github.com/Sfabi28/Terranova) |
-| [Structured development](https://github.com/Sfabi28/42xunifi-structured-development-2025-stescaro) |
+| [Fides Project](https://github.com/Sfabi28/Fides-Project) |
+| [Structured development](https://github.com/Sfabi28/42xunifi-structured-development-2025-sfabi) |
