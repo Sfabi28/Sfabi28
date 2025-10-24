@@ -2,7 +2,7 @@
 
 🎓 42Firenze student  
 💻 Passionate about problem solving, AI and game development  
-🌱 Currently working on: ft_trascendence (last 42's common core project)
+🌱 Currently working on: ft_hangouts (42 school's mastery project about a mobile app)
 
 ## 42 Profile
 [![sfabi's 42 stats](https://badge.mediaplus.ma/greenbinary/sfabi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
