@@ -74,9 +74,9 @@
 
 ## 42's Masteries
 
-| Project         |
-|-----------------|
-| [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) |
+| Project         | Status          |
+|-----------------|-----------------|
+| [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | work in progress |
 
 ## ⚙️ Challenges and other projects:
 
