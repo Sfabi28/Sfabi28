@@ -71,7 +71,13 @@
     <td align="center"></td>
   </tr>
 </table>
- 
+
+## 42's Masteries
+
+| Project         |
+|-----------------|
+| [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) |
+
 ## ⚙️ Challenges and other projects:
 
 | Project         |
