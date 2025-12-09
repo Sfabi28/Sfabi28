@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuele Fabi
 
-🎓 42Firenze student  
+🎓 42Firenze Masteries student  
 💻 Passionate about problem solving, AI and game development  
 🌱 Currently working on: ft_hangouts (42 school's mastery project about a mobile app)
 
