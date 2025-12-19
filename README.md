@@ -78,13 +78,19 @@
 |-----------------|-----------------|
 | [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | work in progress |
 
-## ⚙️ Challenges and other projects:
+## ⚙️ Challenges and Rushes:
 
 | Project         |
 |-----------------|
 | [Fides Project](https://github.com/Sfabi28/Fides-Project) |
 | [Structured development](https://github.com/Sfabi28/42xunifi-structured-development-2025-sfabi) |
 | [2048 Rush](https://github.com/Sfabi28/2048) |
+
+## Personal Projects:
+
+| Project         |
+|-----------------|
+| [Get Next Line Tester](https://github.com/Sfabi28/GNL_testert) |
 
 ## ✉️ Contact me
 
