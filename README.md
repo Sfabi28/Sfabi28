@@ -90,7 +90,7 @@
 
 | Project         |
 |-----------------|
-| [Get Next Line Tester](https://github.com/Sfabi28/gnl_testert) |
+| [Get Next Line Tester](https://github.com/Sfabi28/gnl_tester) |
 
 ## ✉️ Contact me
 
