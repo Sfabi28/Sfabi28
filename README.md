@@ -91,7 +91,7 @@
 | Project         |
 |-----------------|
 | [Get Next Line Tester](https://github.com/Sfabi28/gnl_tester) |
-| [Get Next Line Tester](https://github.com/Sfabi28/printf_tester) |
+| [Printf Tester](https://github.com/Sfabi28/printf_tester) |
 
 ## ✉️ Contact me
 
