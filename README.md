@@ -86,7 +86,7 @@
 | [Structured development](https://github.com/Sfabi28/42xunifi-structured-development-2025-sfabi) |
 | [2048 Rush](https://github.com/Sfabi28/2048) |
 
-## Personal Projects:
+## Testers:
 
 | Project         |
 |-----------------| 
