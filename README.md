@@ -100,6 +100,7 @@
 | Project         |
 |-----------------| 
 | [Tornelli System](https://github.com/Sfabi28/tornelli_system) |
+| [Event Pulse](https://github.com/Sfabi28/event_pulse) |
 
 ## ✉️ Contact me
 
