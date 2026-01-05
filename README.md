@@ -97,12 +97,13 @@
 
 ## Personal Projects:
 
-| Project | Description |
+| Project | Description | 
 | :--- | :--- |
 | [Tornelli System](https://github.com/Sfabi28/tornelli_system) | An access control management system for physical turnstiles. |
 | [Event Pulse](https://github.com/Sfabi28/event_pulse) | A real-time questions tracking and interaction platform. |
 | [Tug of War](https://github.com/Sfabi28/tug_of_war) | A digital implementation of the classic Tug of War game. |
 | [RPS game](https://github.com/Sfabi28/RPS_game) | A Rock Paper Scissors game implementation. |
+| [AI snake](https://github.com/Sfabi28/AI_snake) | An AI snake with Deep Q-Learning |
 
 ## ✉️ Contact me
 
