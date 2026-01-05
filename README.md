@@ -88,21 +88,21 @@
 
 ## My Testers:
 
-| Project         |
-|-----------------| 
-| [Get Next Line Tester](https://github.com/Sfabi28/gnl_tester) |
-| [Printf Tester](https://github.com/Sfabi28/printf_tester) |
-| [Libft Tester](https://github.com/Sfabi28/libft_tester) |
-| [Push Swap Tester](https://github.com/Sfabi28/push_swap_tester) |
+| Project | Description |
+| :--- | :--- |
+| [Get Next Line Tester](https://github.com/Sfabi28/gnl_tester) | A script to verify the logic and buffer management of GNL. |
+| [Printf Tester](https://github.com/Sfabi28/printf_tester) | Test suite covering various flags and conversions for ft_printf. |
+| [Libft Tester](https://github.com/Sfabi28/libft_tester) | Unit tests to ensure standard libc behavior in custom functions. |
+| [Push Swap Tester](https://github.com/Sfabi28/push_swap_tester) | Tools to check sorting efficiency and validate instruction counts. |
 
 ## Personal Projects:
 
-| Project         | 
-|-----------------| 
-| [Tornelli System](https://github.com/Sfabi28/tornelli_system) |
-| [Event Pulse](https://github.com/Sfabi28/event_pulse) |
-| [Tug of War](https://github.com/Sfabi28/tug_of_war) |
-| [RPS game](https://github.com/Sfabi28/RPS_game) |
+| Project | Description |
+| :--- | :--- |
+| [Tornelli System](https://github.com/Sfabi28/tornelli_system) | An access control management system for physical turnstiles. |
+| [Event Pulse](https://github.com/Sfabi28/event_pulse) | A real-time questions tracking and interaction platform. |
+| [Tug of War](https://github.com/Sfabi28/tug_of_war) | A digital implementation of the classic Tug of War game. |
+| [RPS game](https://github.com/Sfabi28/RPS_game) | A Rock Paper Scissors game implementation. |
 
 ## ✉️ Contact me
 
