@@ -104,6 +104,7 @@
 | [Tug of War](https://github.com/Sfabi28/tug_of_war) | A digital implementation of the classic Tug of War game. |
 | [RPS game](https://github.com/Sfabi28/RPS_game) | A Rock Paper Scissors game implementation. |
 | [AI snake](https://github.com/Sfabi28/AI_snake) | An AI snake with Deep Q-Learning |
+| [AI car](https://github.com/Sfabi28/AI_car) | An AI car with Deep Q-Learning |
 
 ## ✉️ Contact me
 
