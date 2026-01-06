@@ -105,6 +105,7 @@
 | [RPS game](https://github.com/Sfabi28/RPS_game) | A Rock Paper Scissors game implementation. |
 | [AI snake](https://github.com/Sfabi28/AI_snake) | An AI snake with Deep Q-Learning |
 | [AI car](https://github.com/Sfabi28/AI_car) | An AI car with Deep Q-Learning |
+| [Eco Simulation](https://github.com/Sfabi28/ecosystem_simulation) | A simulation of a prey and predators world |
 
 ## ✉️ Contact me
 
