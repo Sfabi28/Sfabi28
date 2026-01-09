@@ -7,14 +7,17 @@
 ## 42 Profile
 [![sfabi's 42 stats](https://badge.mediaplus.ma/greenbinary/sfabi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-## 📊 GitHub Stats <img align="right" width="20%" src="https://komarev.com/ghpvc/?username=sfabi&label=PROFILE+VIEWS">
-<div style="display: flex; justify-content: center;">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Sfabi28)](https://github.com/anuraghazra/github-readme-stats">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfabi28&theme=transparent&layout=compact">
+## 📊 GitHub Stats <img align="right" width="100" src="https://komarev.com/ghpvc/?username=sfabi&label=PROFILE+VIEWS">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfabi28)](https://github.com/anuraghazra/github-readme-stats)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sfabi28&theme=transparent)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sfabi28&show_icons=true&theme=transparent" alt="Sfabi28 Stats" />
+  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfabi28&theme=transparent&layout=compact" alt="Top Langs" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sfabi28&theme=transparent" alt="Productive Time" />
 </div>
 
 ## 🛠️ Languages & Skills
