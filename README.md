@@ -11,9 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats-zeta-nine-54.vercel.app/api?username=Sfabi28&show_icons=true&theme=transparent" alt="Sfabi28 Stats" />
+    <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api?username=Sfabi28&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
-  <img width="48%" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=Sfabi28&theme=transparent&layout=compact" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=Sfabi28&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
