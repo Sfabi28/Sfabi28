@@ -5,7 +5,11 @@
 🌱 Currently working on: ft_hangouts (42 school's mastery project about a mobile app)
 
 ## 42 Profile
-[![sfabi's 42 stats](https://badge.mediaplus.ma/greenbinary/sfabi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/sfabi?1337Badge=off&UM6P=off" alt="sfabi's 42 stats" />
+  </a>
+</div>
 
 ## 📊 GitHub Stats <img align="right" width="100" src="https://komarev.com/ghpvc/?username=sfabi&label=PROFILE+VIEWS">
 
