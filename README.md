@@ -22,13 +22,13 @@
 
 ## 🏆 Featured Projects
 <div align="center">
-  <a href="https://github.com/stescaro99/ft_trascendence">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=stescaro99&repo=ft_trascendence&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+  <a href="https://github.com/Sfabi28/AI_car">
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=AI_car&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Sfabi28/Minishell">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=Minishell&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+  <a href="https://github.com/Sfabi28/evolution_simulation">
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=evolution_simulation&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Sfabi28/gnl_tester">
+  <a href="https://github.com/Sfabi28/printf_tester">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=gnl_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
 </div>
