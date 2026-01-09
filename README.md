@@ -107,7 +107,7 @@
 | [AI car](https://github.com/Sfabi28/AI_car) | An AI car with Deep Q-Learning |
 | [Eco Simulation](https://github.com/Sfabi28/ecosystem_simulation) | A simulation of a prey and predators world |
 | [AI tag](https://github.com/Sfabi28/AI_tag) | AI agents playing tag|
-
+| [Evolution Simulation](https://github.com/Sfabi28/evolution_simulation) | A simulation of greedy and generous blobs |
 ## ✉️ Contact me
 
 - Email: [samuelefabi28@gmail.com](mailto:samuelefabi28@gmail.com)
