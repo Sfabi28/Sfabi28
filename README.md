@@ -29,7 +29,7 @@
   <a href="https://github.com/Sfabi28/AI_car">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=AI_car&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Sfabi28/evolution_simulation">
+  <a href="https://github.com/Sfabi28/evolution_simulation"> 
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=evolution_simulation&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
   <a href="https://github.com/Sfabi28/printf_tester">
