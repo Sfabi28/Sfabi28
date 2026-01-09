@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats <img align="right" width="20%" src="https://komarev.com/ghpvc/?username=sfabi&label=PROFILE+VIEWS">
 <div style="display: flex; justify-content: center;">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Sfabi28&theme=transparent&show_icons=true">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Sfabi28)](https://github.com/anuraghazra/github-readme-stats">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfabi28&theme=transparent&layout=compact">
 
   ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sfabi28&theme=transparent)
