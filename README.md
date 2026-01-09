@@ -12,7 +12,7 @@
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Sfabi28)](https://github.com/anuraghazra/github-readme-stats">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfabi28&theme=transparent&layout=compact">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfabi28)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfabi28)](https://github.com/anuraghazra/github-readme-stats)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sfabi28&theme=transparent)
 
 </div>
