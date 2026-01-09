@@ -16,10 +16,6 @@
   <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=Sfabi28&layout=compact&bg_color=000000&title_color=D4AF37&text_color=E5C07B&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sfabi28&theme=dark" alt="Productive Time" />
-</div>
-
 ## 🛠️ Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py,lua,bash,linux,docker,git,github,vscode,)](https://skillicons.dev)
 ## 42's Common Core
