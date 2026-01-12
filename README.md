@@ -115,7 +115,7 @@
 
 ## Personal Projects:
 
-| Project | Description | 
+| Project | Description |
 | :--- | :--- |
 | [Tornelli System](https://github.com/Sfabi28/tornelli_system) | An access control management system for physical turnstiles. |
 | [Event Pulse](https://github.com/Sfabi28/event_pulse) | A real-time questions tracking and interaction platform. |
@@ -126,6 +126,8 @@
 | [Eco Simulation](https://github.com/Sfabi28/ecosystem_simulation) | A simulation of a prey and predators world |
 | [AI tag](https://github.com/Sfabi28/AI_tag) | AI agents playing tag|
 | [Evolution Simulation](https://github.com/Sfabi28/evolution_simulation) | A simulation of greedy and generous blobs |
+| [Pathfinding Visualizer](https://github.com/Sfabi28/pathfinding_visualizer) | Custum A* pathfinding implementation |
+
 ## ✉️ Contact me
 
 - Email: [samuelefabi28@gmail.com](mailto:samuelefabi28@gmail.com)
