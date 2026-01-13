@@ -32,7 +32,7 @@
   <a href="https://github.com/Sfabi28/event_pulse"> 
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=event_pulse&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Sfabi28/printf_tester">
+  <a href="https://github.com/Sfabi28/gnl_tester">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Sfabi28&repo=gnl_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
 </div>
