@@ -94,7 +94,7 @@
 
 | Project         | Status          |
 |-----------------|-----------------|
-| [Sweafty Companion](https://github.com/Sfabi28/sweafty_companion) | work in progress |
+| [Sweafty Companion](https://github.com/Sfabi28/Sweafty_Companion) | work in progress |
 
 ## ⚙️ Challenges and Rushes:
 
