@@ -2,7 +2,7 @@
 
 🎓 42Firenze Masteries student  
 💻 Passionate about problem solving, AI and game development  
-🌱 Currently working on: ft_hangouts (42 school's mastery project about a mobile app)
+🌱 Currently working on: Sweafty_Companion
 
 ## 42 Profile
 <div align="center">
@@ -94,7 +94,7 @@
 
 | Project         | Status          |
 |-----------------|-----------------|
-| [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | work in progress |
+| [Sweafty Companion](https://github.com/Sfabi28/sweafty_companion) | work in progress |
 
 ## ⚙️ Challenges and Rushes:
 
