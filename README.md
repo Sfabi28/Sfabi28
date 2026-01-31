@@ -22,7 +22,7 @@
 
 ## 🛠️ Languages & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py,lua,bash,linux,docker,git,github,vscode,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py,lua,bash,linux,docker,git,github,vscode,dart,flutter,kotlin)](https://skillicons.dev)
 
 ## 🏆 Featured Projects
 <div align="center">
