@@ -95,7 +95,8 @@
 | Project         | Status          |
 |-----------------|-----------------|
 | [Swifty Companion](https://github.com/Sfabi28/Swifty_Companion) | 110% |
-| [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | work in progress |
+| [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | 125% |
+| [Swifty Protein](https://github.com/Sfabi28/Swifty_Protein) | in progress |
 
 ## ⚙️ Challenges and Rushes:
 
