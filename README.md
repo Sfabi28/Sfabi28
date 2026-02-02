@@ -2,7 +2,7 @@
 
 🎓 42Firenze Masteries student  
 💻 Passionate about problem solving, AI and game development  
-🌱 Currently working on: ft_hangouts
+🌱 Currently working on: swifty protein, tokenizer
 
 ## 42 Profile
 <div align="center">
@@ -97,6 +97,7 @@
 | [Swifty Companion](https://github.com/Sfabi28/Swifty_Companion) | 110% |
 | [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | 125% |
 | [Swifty Protein](https://github.com/Sfabi28/Swifty_Protein) | in progress |
+| [Tokenizer](https://github.com/Sfabi28/Tokenizer) | in progress |
 
 ## ⚙️ Challenges and Rushes:
 
