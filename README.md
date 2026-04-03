@@ -2,7 +2,7 @@
 
 🎓 42Firenze Masteries student  
 💻 Passionate about problem solving, AI and game development  
-🌱 Currently working on: swifty protein, tokenizer
+🌱 Currently working on: swifty protein
 
 ## 42 Profile
 <div align="center">
