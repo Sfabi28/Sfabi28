@@ -2,7 +2,7 @@
 
 🎓 42Firenze Masteries student  
 💻 Passionate about problem solving, AI and game development  
-🌱 Currently working on: swifty protein
+🌱 Currently working on: swifty protein, fix-me
 
 ## 42 Profile
 <div align="center">
@@ -22,7 +22,7 @@
 
 ## 🛠️ Languages & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py,lua,bash,linux,docker,git,github,vscode,dart,flutter,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py,lua,bash,linux,docker,git,github,vscode,dart,flutter,kotlin,java)](https://skillicons.dev)
 
 ## 🏆 Featured Projects
 <div align="center">
@@ -97,7 +97,8 @@
 | [Swifty Companion](https://github.com/Sfabi28/Swifty_Companion) | 110% |
 | [ft_hangouts](https://github.com/Sfabi28/ft_hangouts) | 125% |
 | [Swifty Protein](https://github.com/Sfabi28/Swifty_Protein) | in progress |
-| [avaj_launcher](https://github.com/Sfabi28/avaj_launcher) | in progress |
+| [avaj_launcher](https://github.com/Sfabi28/avaj_launcher) | 125% |
+| [fix-me](https://github.com/Sfabi28/fix-me) | in progress |
 
 ## ⚙️ Challenges and Rushes:
 
